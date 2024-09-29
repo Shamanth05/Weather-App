@@ -23,6 +23,9 @@ Execute the AppLauncher class that launches the application
 
 Screenshots
 ![Screenshot (331)](https://github.com/user-attachments/assets/560ba1c7-65f2-4d59-afd3-24cf76f7a166)
+![Screenshot (334)](https://github.com/user-attachments/assets/768a5366-92e6-48c2-ad2c-9ef1d73af6a3)
+![Screenshot (335)](https://github.com/user-attachments/assets/753e0bd8-ee2a-4604-ac6b-452660a4e77b)
+
 
 Requirements
 Java 8 or later
